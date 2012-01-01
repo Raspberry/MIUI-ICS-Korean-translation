@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_indicator_style_entries">
+        <item>그림</item>
+        <item>퍼센트</item>
+        <item>상단바</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>연결할 때 확인</item>
+        <item>충전만</item>
+        <item>USB 저장소</item>
+    </string-array>
+</resources>

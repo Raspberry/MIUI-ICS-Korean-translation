@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">MIUI나침반</string>
+    <string name="getting_location">위치 찾는 중...</string>
+    <string name="cannot_get_location">위치를 찾을 수 없습니다.</string>
+    <string name="location_north">북위 %s</string>
+    <string name="location_south">남위 %s</string>
+    <string name="location_east">동경 %s</string>
+    <string name="location_west">서경 %s</string>
+</resources>

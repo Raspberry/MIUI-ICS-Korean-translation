@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC 서비스</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="inbound_me_profile_title">NFC를 통해 받은 연락처</string>
+    <string name="inbound_me_profile_text">이 사람을 연락처에 추가하려면 탭하세요.</string>
+    <string name="outbound_me_profile_title">NFC 통신 완료</string>
+    <string name="outbound_me_profile_text">내 연락처 정보를 이 사람에게 제공하려면 탭하세요.</string>
+    <string name="accessibility_nfc_enabled">NFC 사용</string>
+    <string name="touch">공유하기</string>
+</resources>
