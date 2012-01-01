@@ -3,7 +3,7 @@
     <string-array name="pref_content_plugins_choices">
         <item>항상 사용</item>
         <item>요청 시</item>
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>현재 페이지</item>
@@ -36,7 +36,7 @@
         <item>한국어(EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>안 함</item>
+        <item>안함</item>
         <item>Wi-Fi 연결 시</item>
         <item>항상</item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>http://m.olleh.com/</item>
         <item>모바일 T world</item>
         <item>http://m.tworld.co.kr/</item>
-        <item>위키백과, 우리 모두의 백과사전</item>
-        <item>http://ko.m.wikipedia.org/</item>
+		<item>위키백과, 우리 모두의 백과사전</item>
+		<item>http://ko.m.wikipedia.org/</item>
         <item>Picasa</item>
         <item>http://picasaweb.google.com/m/viewer?source=androidclient</item>
         <item>Twitter</item>
