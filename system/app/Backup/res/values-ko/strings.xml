@@ -115,8 +115,8 @@ Xiaomi 온라인 서비스를 사용해보세요."</string>
     <string name="sc_precondition_failed">Xiaomi 계정이 이메일과 연동되지 않았습니다.</string>
     <string name="sc_internal_server_error">내부 서버 오류</string>
     <string name="sc_others">프로그램 제외</string>
-    <string name="succeed">백업 성공</string>
-    <string name="fail">백업 실패</string>
+    <string name="succeed">성공</string>
+    <string name="fail">실패</string>
     <string name="button_return">뒤로</string>
     <string name="button_next">다음</string>
     <string name="button_finish">완료</string>
