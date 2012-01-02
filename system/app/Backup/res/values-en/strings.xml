@@ -38,6 +38,7 @@ Are you sure you wish to delete the selected backup?"</string>
     <string name="restore_telephony_hit">(Note: The restore process will restart the Phone application)</string>
     <string name="restore_launcher_layout_hit">(Note: Restore launcher layout)</string>
     <string name="settings_summary">Backup phone and messaging settings</string>
+    <string name="account_summary">Backup Gmail, Email and Xiaomi account</string>
     <string name="cloud_app_name">Cloud Backup</string>
     <string name="cloud_home_title">Cloud backup</string>
     <string name="prompt_reading">Reading...</string>
@@ -110,8 +111,8 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="sc_precondition_failed">Your Xiaomi account has not been bound with any email address</string>
     <string name="sc_internal_server_error">Internal server error</string>
     <string name="sc_others">Program exception</string>
-    <string name="task_backup_succeed">Backup successful</string>
-    <string name="task_restore_failed">Restore failed</string>
+    <string name="succeed">succeeded</string>
+    <string name="fail">failed</string>
     <string name="button_return">Back</string>
     <string name="button_next">Next</string>
     <string name="button_finish">Finish</string>
@@ -137,8 +138,8 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="auto_backup_progress">Performing automatic backup please wait...</string>
     <string name="auto_backup_interval_min">Daily</string>
     <string name="auto_backup_interval_max">30 days</string>
-    <string name="cloud_backup">Backup</string>
-    <string name="cloud_restore">Restore</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
     <string name="cloud_last_backup">Last backup:</string>
     <string name="cloud_search">Searching Cloud...</string>
     <string name="cloud_no_backup">No cloud backup(s)</string>
@@ -158,7 +159,7 @@ Please check network connection and try again"</string>
  You may also restore %s in Backup"</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Start a phone with contacts
 
-2.\u0009Install MiTalk and log in
+2.\u0009Install MiTalk and log in.
 \u0009http://www.miliao.com
 
 3.\u0009Enter MiTalk settings and choose ”Back up contacts to Xiaomi account”"</string>

@@ -42,7 +42,7 @@
     <string name="settings_summary">"
 (전화와 메시지 관련 설정을 백업합니다.)"</string>
     <string name="account_summary">"
-(Gmail, 이메일 and Xiaomi 계정을 백업합니다.")</string>
+(Gmail, 이메일, Xiaomi 계정을 백업합니다.")</string>
     <string name="cloud_app_name">클라우드 백업</string>
     <string name="cloud_home_title">클라우드</string>
     <string name="prompt_reading">읽는 중...</string>
@@ -115,8 +115,8 @@ Xiaomi 온라인 서비스를 사용해보세요."</string>
     <string name="sc_precondition_failed">Xiaomi 계정이 이메일과 연동되지 않았습니다.</string>
     <string name="sc_internal_server_error">내부 서버 오류</string>
     <string name="sc_others">프로그램 제외</string>
-    <string name="task_backup_succeed">백업 성공</string>
-    <string name="task_backup_failed">백업 실패</string>
+    <string name="succeed">백업 성공</string>
+    <string name="fail">백업 실패</string>
     <string name="button_return">뒤로</string>
     <string name="button_next">다음</string>
     <string name="button_finish">완료</string>
@@ -142,8 +142,8 @@ Xiaomi 온라인 서비스를 사용해보세요."</string>
     <string name="auto_backup_progress">자동 클라우드 백업 중...</string>
     <string name="auto_backup_interval_min">매일</string>
     <string name="auto_backup_interval_max">30일</string>
-    <string name="cloud_backup">백업</string>
-    <string name="cloud_restore">복구</string>
+    <string name="backup">백업</string>
+    <string name="restore">복구</string>
     <string name="cloud_last_backup">"마지막 백업: "</string>
     <string name="cloud_search">검색 중...</string>
     <string name="cloud_no_backup">백업이 없음</string>

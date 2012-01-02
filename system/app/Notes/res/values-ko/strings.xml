@@ -17,17 +17,14 @@
     <string name="note_link_email">E-mail 작성</string>
     <string name="note_link_web">웹</string>
     <string name="note_link_other">지도 열기</string>
-    <string name="file_path">/MIUI/notes/</string>
-    <string name="file_name_txt_format">notes_%s.txt</string>
-    <string name="format_folder_files_count">(%d)</string>
     <string name="menu_create_folder">새 폴더</string>
     <string name="menu_export_text">txt 내보내기</string>
     <string name="menu_sync">동기화</string>
     <string name="menu_sync_cancel">동기화 취소</string>
     <string name="menu_setting">설정</string>
     <string name="menu_search">검색</string>
-    <string name="menu_edit">편집</string>
     <string name="menu_delete">삭제</string>
+    <string name="menu_move">폴더로 이동</string>
     <string name="menu_select_title">%d항목 선택됨</string>
     <string name="menu_select_none">아무 것도 선택되지 않았습니다.</string>
     <string name="menu_select_all">모두 선택</string>
@@ -37,7 +34,7 @@
     <string name="menu_font_normal">보통</string>
     <string name="menu_font_large">크게</string>
     <string name="menu_font_super">아주 크게</string>
-    <string name="menu_list_mode">체크리스트</string>
+    <string name="menu_list_mode">체크목록</string>
     <string name="menu_normal_mode">일반노트</string>
     <string name="menu_folder_view">폴더 보기</string>
     <string name="menu_folder_delete">폴더 삭제</string>
@@ -99,5 +96,4 @@
     <string name="search_hint">노트 검색</string>
     <string name="search_setting_description">노트 내용</string>
     <string name="search">노트</string>
-    <string name="search_empty">찾은 노트</string>
 </resources>
