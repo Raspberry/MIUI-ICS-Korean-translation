@@ -222,7 +222,7 @@
     <string name="cdma_system_select_dialogtitle">시스템 선택</string>
     <string name="cdma_lte_data_service">데이터 서비스 설정</string>
     <string name="fdn">발신 허용 번호</string>
-    <string name="fdn_summary">발신 허용 번호를 사용하면 위의 설들은 모두 비활성화됩니다.</string>
+    <string name="fdn_summary">발신 허용 번호를 사용하면 위의 설정들은 모두 비활성화됩니다.</string>
     <string name="manage_fdn_list">FDN 목록</string>
     <string name="fdn_enabled">발신 허용 번호 사용</string>
     <string name="fdn_disabled">발신 허용 번호 사용 중지됨</string>

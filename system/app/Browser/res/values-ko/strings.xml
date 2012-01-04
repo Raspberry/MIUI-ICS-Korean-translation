@@ -331,9 +331,9 @@
     <string name="accessibility_state_frozen">저장된 페이지</string>
     <string name="accessibility_transition_navscreen">탭 관리</string>
     <string name="file_picker_new_folder">새 폴더</string>
-    <string name="file_picker_sdcard_not_found">SD 카드를 찾을 수 없습니다. SD 카드를 사용 중인지, USB 저장소 모드로 연결되지 않았는지 확인해보세요.</string>
-    <string name="export_bookmark_sucess">SD 카드로 북마크 내보내기 성공!</string>
-    <string name="export_bookmark_failure">SD 카드로 북마크 내보내기 실패!</string>
+    <string name="file_picker_sdcard_not_found">USB 저장소를 찾을 수 없습니다. PC와 연결되지 않았는지 확인해보세요.</string>
+    <string name="export_bookmark_sucess">USB 저장소로 북마크 내보내기 성공!</string>
+    <string name="export_bookmark_failure">USB 저장소로 북마크 내보내기 실패!</string>
     <string name="import_bookmark_sucess">북마크 가져오기 성공!</string>
     <string name="import_bookmark_failure">북마크 가져오기 실패!</string>
     <string name="importing_favorite_files">데이터 가져오는 중...</string>

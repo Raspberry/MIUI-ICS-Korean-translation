@@ -15,7 +15,7 @@
         <item quantity="one">노래 1곡이 삭제되었습니다.</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">노래 %d곡이 재생 목록에 추가되었습니다.</item>
-        <item quantity="one">재생 목록에 노래 1곡이 추가되었습니다.</item>
+        <item quantity="other">노래 %d곡이 재생목록에 추가되었습니다.</item>
+        <item quantity="one">재생목록에 노래 1곡이 추가되었습니다.</item>
     </plurals>
 </resources>

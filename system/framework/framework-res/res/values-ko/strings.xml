@@ -159,6 +159,7 @@
     <string name="same_year_wday1_mdy1_wday2_mdy2">%9$s년 %2$s %3$s일 %1$s ~ %7$s %8$s일 %6$s</string>
     <string name="short_format_month">%b</string>
     <string name="full_wday_month_day_no_year">MMMM d일 EEEE</string>
+    <string name="abbrev_wday_month_day_no_year">MMMM d일 EEE</string>
     <string name="abbrev_wday_month_day_year">yyyy년 MMM d일 EEE</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
@@ -235,11 +236,11 @@
     <string name="roamingText11">로밍 배너 사용</string>
     <string name="roamingText12">로밍 배너 사용 안함</string>
     <string name="roamingTextSearching">서비스 검색 중</string>
-    <string name="cfTemplateNotForwarded">{0}: 착신전환 안 됨</string>
+    <string name="cfTemplateNotForwarded">{0}: 착신전환 안됨</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1}{2}초 후</string>
-    <string name="cfTemplateRegistered">{0}: 착신전환 안 됨</string>
-    <string name="cfTemplateRegisteredTime">{0}: 착신전환 안 됨</string>
+    <string name="cfTemplateRegistered">{0}: 착신전환 안됨</string>
+    <string name="cfTemplateRegisteredTime">{0}: 착신전환 안됨</string>
     <string name="fcComplete">기능 코드가 완료되었습니다.</string>
     <string name="fcError">연결에 문제가 있거나 기능 코드가 잘못되었습니다.</string>
     <string name="httpErrorOk">확인</string>
@@ -347,7 +348,7 @@
     <string name="permlab_forceStopPackages">다른 애플리케이션 강제 종료</string>
     <string name="permdesc_forceStopPackages">애플리케이션이 다른 애플리케이션을 강제로 종료할 수 있도록 합니다.</string>
     <string name="permlab_forceBack">강제로 애플리케이션 닫기</string>
-    <string name="permdesc_forceBack">애플리케이션이 포그라운드에 있는 활동을 강제로 닫고 되돌아갈 수 있도록 합니다. 일반 애플리케이션에는 절대로 필요하지 않습니다.</string>
+    <string name="permdesc_forceBack">애플리케이션이 포그라운드에 있는 작업을 강제로 닫고 되돌아갈 수 있도록 합니다. 일반 애플리케이션에는 절대로 필요하지 않습니다.</string>
     <string name="permlab_dump">시스템 내부 상태 검색</string>
     <string name="permdesc_dump">애플리케이션이 시스템의 내부 상태를 검색할 수 있도록 합니다. 단, 악성 애플리케이션이 이 기능을 이용하여 일반적으로 필요하지 않은 다양한 개인정보와 보안정보를 검색할 수 있습니다.</string>
     <string name="permlab_retrieve_window_content">화면 콘텐츠 검색</string>
@@ -422,6 +423,8 @@
     <string name="permdesc_movePackage">애플리케이션이 애플리케이션 리소스를 내부에서 외부 미디어로 또는 그 반대로 이동할 수 있도록 합니다.</string>
     <string name="permlab_readLogs">중요한 로그 데이터 읽기</string>
     <string name="permdesc_readLogs">애플리케이션이 시스템의 다양한 로그 파일을 읽을 수 있도록 합니다. 이렇게 되면 애플리케이션은 개인정보 또는 비공개 정보를 포함하여 휴대전화로 수행하는 작업에 대한 일반적인 정보를 검색할 수 있습니다.</string>
+    <string name="permlab_anyCodecForPlayback">재생에 모든 미디어 디코더 사용</string>
+    <string name="permdesc_anyCodecForPlayback">애플리케이션에서 설치된 모든 미디어 디코더를 사용하여 디코딩 후 재생할 수 있도록 허용합니다.</string>
     <string name="permlab_diagnostic">진단 그룹 소유의 리소스 읽기/쓰기</string>
     <string name="permdesc_diagnostic">애플리케이션이 진단 그룹 소유의 리소스(예: /dev에 있는 파일)를 읽고 쓸 수 있도록 합니다. 이 기능은 시스템 안정성 및 보안에 영향을 미칠 수 있으므로 제조업체 또는 사업자가 하드웨어 관련 진단을 수행하는 경우에만 사용해야 합니다.</string>
     <string name="permlab_changeComponentState">애플리케이션 구성 요소 사용 또는 사용 안함</string>
@@ -546,7 +549,7 @@
     <string name="permdesc_useCredentials">애플리케이션이 인증 토큰을 요청하도록 합니다.</string>
     <string name="permlab_accessNetworkState">네트워크 상태 보기</string>
     <string name="permdesc_accessNetworkState">애플리케이션이 모든 네트워크의 상태를 볼 수 있도록 합니다.</string>
-    <string name="permlab_createNetworkSockets">인터넷에 최대한 액세스</string>
+    <string name="permlab_createNetworkSockets">인터넷 액세스</string>
     <string name="permdesc_createNetworkSockets">애플리케이션이 네트워크 소켓을 만들 수 있도록 합니다.</string>
     <string name="permlab_writeApnSettings">네트워크 설정 및 트래픽 차단/변경</string>
     <string name="permdesc_writeApnSettings">애플리케이션이 모든 네트워크 트래픽을 가로채고 검사하거나 네트워크 설정을 변경하도록 허용합니다. 예를 들어 프록시나 APN의 포트를 변경할 수 있습니다. 악성 애플리케이션이 사용자 모르게 네트워크 패킷을 모니터링하고 리디렉션하며 수정할 수도 있습니다.</string>
@@ -562,6 +565,10 @@
     <string name="permdesc_changeWifiState">애플리케이션이 Wi-Fi 액세스포인트에 연결하거나 연결을 끊고, 구성된 Wi-Fi 네트워크를 변경할 수 있도록 합니다.</string>
     <string name="permlab_changeWifiMulticastState">Wi-Fi 멀티캐스트 수신 허용</string>
     <string name="permdesc_changeWifiMulticastState">애플리케이션이 휴대기기로 직접 주소가 지정되지 않은 패킷을 받을 수 있도록 합니다. 이 기능은 가까운 곳에서 제공되는 서비스를 검색할 때 유용하며 비멀티캐스트 모드보다 전원을 더 많이 소비합니다.</string>
+    <string name="permlab_accessWimaxState">WiMAX 상태 보기</string>
+    <string name="permdesc_accessWimaxState">애플리케이션이 WiMAX의 상태에 대한 정보를 볼 수 있도록 합니다.</string>
+    <string name="permlab_changeWimaxState">WiMAX 상태 변경</string>
+    <string name="permdesc_changeWimaxState">애플리케이션이 WiMAX 네트워크에 연결하거나 연결을 끊을 수 있도록 합니다.</string>
     <string name="permlab_bluetoothAdmin">블루투스 관리</string>
     <string name="permdesc_bluetoothAdmin">애플리케이션이 로컬 블루투스 휴대전화를 구성한 다음 원격 장치를 검색하여 페어링할 수 있도록 합니다.</string>
     <string name="permlab_bluetooth">블루투스 연결 만들기</string>
@@ -660,7 +667,7 @@
     <string name="imProtocolYahoo">Yahoo</string>
     <string name="imProtocolSkype">Skype</string>
     <string name="imProtocolQq">QQ</string>
-    <string name="imProtocolGoogleTalk">Google Talk</string>
+    <string name="imProtocolGoogleTalk">Google 토크</string>
     <string name="imProtocolIcq">ICQ</string>
     <string name="imProtocolJabber">Jabber</string>
     <string name="imProtocolNetMeeting">NetMeeting</string>
@@ -714,7 +721,7 @@
     <string name="lockscreen_missing_sim_message">휴대전화에 SIM 카드가 없습니다.</string>
     <string name="lockscreen_missing_sim_instructions">SIM 카드를 삽입하세요.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM 카드가 없거나 읽을 수 없습니다. SIM 카드를 삽입하세요.</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"SIM 카드 사용이 영구적으로 중지됩니다
+    <string name="lockscreen_permanent_disabled_sim_instructions">"SIM 카드 사용이 영구적으로 중지됩니다.
 다른 SIM 카드를 사용하려면 무선 서비스 제공업체에 문의하시기 바랍니다."</string>
     <string name="lockscreen_transport_prev_description">이전 트랙 버튼</string>
     <string name="lockscreen_transport_next_description">다음 트랙 버튼</string>
@@ -877,7 +884,7 @@
     <string name="anr_activity_application">"%2$s이(가) 응답하지 않습니다.
 
 닫으시겠습니까?"</string>
-    <string name="anr_activity_process">"%1$s 활동이 응답하지 않습니다.
+    <string name="anr_activity_process">"%1$s이(가) 응답하지 않습니다.
 
 닫으시겠습니까?"</string>
     <string name="anr_application_process">%1$s이(가) 응답하지 않습니다. 닫으시겠습니까?</string>
@@ -927,6 +934,7 @@
     <string name="ringtone_silent">무음</string>
     <string name="ringtone_picker_title">벨소리</string>
     <string name="ringtone_unknown">알 수 없는 벨소리</string>
+    <string name="wifi_available_sign_in">Wi-Fi 네트워크에 로그인</string>
     <string name="wifi_watchdog_network_disabled">Wi-Fi에 연결할 수 없습니다</string>
     <string name="wifi_watchdog_network_disabled_detailed">" 인터넷 연결 상태가 좋지 않습니다."</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1014,7 +1022,7 @@
     <string name="ime_action_done">완료</string>
     <string name="ime_action_previous">이전</string>
     <string name="ime_action_default">실행</string>
-    <string name="dial_number_using">"전화하기
+    <string name="dial_number_using">"전화하기 
 %s에 연결"</string>
     <string name="create_contact_using">"전화번호부에
 %s 추가"</string>
@@ -1121,6 +1129,7 @@
     <string name="description_target_camera">카메라</string>
     <string name="description_target_silent">무음</string>
     <string name="description_target_soundon">사운드 켜기</string>
+    <string name="description_target_unlock_tablet">스와이프하여 잠급니다.</string>
     <string name="keyboard_headset_required_to_hear_password">비밀번호 키를 음성으로 들으려면 헤드셋을 연결하세요.</string>
     <string name="keyboard_password_character_no_headset">점</string>
     <string name="action_bar_home_description">홈 탐색</string>
@@ -1159,8 +1168,11 @@
     <string name="sha256_fingerprint">SHA-256 지문:</string>
     <string name="sha1_fingerprint">SHA-1 지문:</string>
     <string name="activity_chooser_view_see_all">전체 보기...</string>
-    <string name="activity_chooser_view_dialog_title_default">활동 선택</string>
+    <string name="activity_chooser_view_dialog_title_default">작업 선택</string>
     <string name="share_action_provider_share_with">공유 대상...</string>
     <string name="status_bar_device_locked">기기가 잠겼습니다.</string>
     <string name="list_delimeter">", "</string>
+    <string name="sending">보내는 중...</string>
+    <string name="launchBrowserDefault">브라우저를 실행하시겠습니까?</string>
+    <string name="SetupCallDefault">통화를 수락하시겠습니까?</string>
 </resources>
