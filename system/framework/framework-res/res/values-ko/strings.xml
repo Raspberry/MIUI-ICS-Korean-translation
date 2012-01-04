@@ -222,7 +222,7 @@
     <string name="serviceClassPacket">패킷</string>
     <string name="serviceClassPAD">PAD</string>
     <string name="roamingText0">로밍 표시기 사용</string>
-    <string name="roamingText1">로밍 표시기 사용 안 함</string>
+    <string name="roamingText1">로밍 표시기 사용 안함</string>
     <string name="roamingText2">로밍 표시기 깜박임</string>
     <string name="roamingText3">인근 지역 외부</string>
     <string name="roamingText4">건물 밖</string>
@@ -233,7 +233,7 @@
     <string name="roamingText9">로밍 - 전체 서비스 기능</string>
     <string name="roamingText10">로밍 - 부분 서비스 기능</string>
     <string name="roamingText11">로밍 배너 사용</string>
-    <string name="roamingText12">로밍 배너 사용 안 함</string>
+    <string name="roamingText12">로밍 배너 사용 안함</string>
     <string name="roamingTextSearching">서비스 검색 중</string>
     <string name="cfTemplateNotForwarded">{0}: 착신전환 안 됨</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
@@ -281,7 +281,7 @@
     <string name="global_action_silent_mode_off_status">소리 켜짐</string>
     <string name="global_actions_toggle_airplane_mode">비행기 모드</string>
     <string name="global_actions_airplane_mode_on_status">비행기 모드 사용</string>
-    <string name="global_actions_airplane_mode_off_status">비행기 모드 사용 안 함</string>
+    <string name="global_actions_airplane_mode_off_status">비행기 모드 사용 안함</string>
     <string name="safeMode">안전 모드</string>
     <string name="android_system_label">Android 시스템</string>
     <string name="permgrouplab_costMoney">요금이 부과되는 서비스</string>
@@ -424,7 +424,7 @@
     <string name="permdesc_readLogs">애플리케이션이 시스템의 다양한 로그 파일을 읽을 수 있도록 합니다. 이렇게 되면 애플리케이션은 개인정보 또는 비공개 정보를 포함하여 휴대전화로 수행하는 작업에 대한 일반적인 정보를 검색할 수 있습니다.</string>
     <string name="permlab_diagnostic">진단 그룹 소유의 리소스 읽기/쓰기</string>
     <string name="permdesc_diagnostic">애플리케이션이 진단 그룹 소유의 리소스(예: /dev에 있는 파일)를 읽고 쓸 수 있도록 합니다. 이 기능은 시스템 안정성 및 보안에 영향을 미칠 수 있으므로 제조업체 또는 사업자가 하드웨어 관련 진단을 수행하는 경우에만 사용해야 합니다.</string>
-    <string name="permlab_changeComponentState">애플리케이션 구성 요소 사용 또는 사용 안 함</string>
+    <string name="permlab_changeComponentState">애플리케이션 구성 요소 사용 또는 사용 안함</string>
     <string name="permdesc_changeComponentState">애플리케이션이 다른 애플리케이션 구성 요소 사용 여부를 변경할 수 있도록 합니다. 악성 애플리케이션이 이를 악용하여 중요한 휴대전화 기능을 중지시킬 수 있습니다. 이 권한을 허용할 경우 애플리케이션 구성 요소가 사용 불가능하게 되거나 일관성이 맞지 않거나 불안정해질 수 있으므로 주의해야 합니다.</string>
     <string name="permlab_setPreferredApplications">기본 애플리케이션 설정</string>
     <string name="permdesc_setPreferredApplications">애플리케이션이 기본 애플리케이션을 수정할 수 있도록 합니다. 이 경우 악성 애플리케이션이 사용자의 개인 정보를 수집하기 위해 기존 애플리케이션으로 위장하도록 실행되는 애플리케이션을 몰래 변경할 수 있습니다.</string>
@@ -963,11 +963,11 @@
     <string name="usb_storage_error_message">USB 대용량 저장소로 공유 저장용량을 사용하는 동안 문제가 발생했습니다.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
     <string name="usb_storage_notification_message">컴퓨터에 파일을 복사하거나 컴퓨터의 파일을 복사하려면 선택합니다.</string>
-    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_notification_message">"'USB 저장소 사용 중지'를 선택하세요."</string>
     <string name="usb_storage_stop_title">USB 저장소 사용 중</string>
     <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 컴퓨터에서 Android의 USB 저장소를 마운트 해제했는지(꺼냈는지) 확인하시기 바랍니다.</string>
-    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트와 연결을 해제했는지 확인한 다음 다시 시도하세요.</string>
     <string name="dlg_confirm_kill_storage_users_title">USB 저장소 사용</string>
     <string name="dlg_confirm_kill_storage_users_text">USB 저장소를 사용하면 사용 중인 일부 애플리케이션이 중지되어 USB 저장소를 사용 중지할 때까지 사용할 수 없게 됩니다.</string>

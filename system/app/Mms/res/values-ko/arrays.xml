@@ -82,6 +82,6 @@
     <string-array name="prefEntries_vibrateWhen">
         <item>항상</item>
         <item>무음 시에만</item>
-        <item>안 함</item>
+        <item>안함</item>
     </string-array>
 </resources>

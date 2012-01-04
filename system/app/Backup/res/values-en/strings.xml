@@ -24,7 +24,7 @@
     <string name="delete_backup_confirm">Selected backup will be removed, are you sure?</string>
     <string name="delete_backup_process">Deleting backup(s)...</string>
     <string name="backup_error">Backup Error</string>
-    <string name="delete_failed_backup_confirm">The backup has error, cannot restore from this backup</string>
+    <string name="delete_failed_backup_confirm">The backup has an error, cannot restore from this backup</string>
     <string name="batch_delete_backup_confirm">"
 Are you sure you wish to delete the selected backup?"</string>
     <string name="start_restore">Restore</string>
@@ -32,30 +32,30 @@ Are you sure you wish to delete the selected backup?"</string>
     <string name="unit_byte">" Bytes"</string>
     <string name="unit_piece">" Item(s)"</string>
     <string name="restore_finished">Restore completed</string>
-    <string name="restore_report">Restoration report</string>
+    <string name="restore_report">Restore report</string>
     <string name="restore_progress">Restoring...</string>
     <string name="restore_contacts_hit">(Note: You need to manually restore Contacts established before the original account)</string>
-    <string name="restore_telephony_hit">(Note: The restore process will restart the Phone application)</string>
+    <string name="restore_telephony_hit">(Note: The recovery process will restart the Phone application)</string>
     <string name="restore_launcher_layout_hit">(Note: Restore launcher layout)</string>
     <string name="settings_summary">Backup phone and messaging settings</string>
     <string name="account_summary">Backup Gmail, Email and Xiaomi account</string>
     <string name="cloud_app_name">Cloud Backup</string>
-    <string name="cloud_home_title">Cloud backup</string>
+    <string name="cloud_home_title">Cloud</string>
     <string name="prompt_reading">Reading...</string>
     <string name="prompt_sending">Uploading...</string>
     <string name="prompt_writing">Saving...</string>
     <string name="backup_new">New:</string>
     <string name="backup_update">Update</string>
     <string name="backup_delete">Delete:</string>
-    <string name="findlost_contact">Restore contacts</string>
+    <string name="findlost_contact">Recover deleted contacts</string>
     <string name="findlost_contact_online">Restore deleted contacts from cloud</string>
-    <string name="cloud_backup_login">Login</string>
-    <string name="cloud_backup_hint">Login to securely store your backups</string>
-    <string name="cloud_backup_window_title">Cloud</string>
-    <string name="cloud_restore_window_title">Restore from Cloud</string>
+    <string name="cloud_backup_login">Login using your Xiaomi account</string>
+    <string name="cloud_backup_hint">Login to securely store and restore your backups</string>
+    <string name="cloud_backup_window_title">Cloud Backup</string>
+    <string name="cloud_restore_window_title">Cloud Recovery</string>
     <string name="cloud_restore_title">Restore backup data</string>
-    <string name="local_backup_window_title">Local</string>
-    <string name="local_restore_window_title">Local Restore</string>
+    <string name="local_backup_window_title">Local backup data</string>
+    <string name="local_restore_window_title">Local Recovery</string>
     <string name="account_login">Login</string>
     <string name="miliao_account_login">Login MiTalk</string>
     <string name="miliao_account_guide">"MiTalk upgraded to Xiaomi account
@@ -67,7 +67,7 @@ Are you sure you wish to delete the selected backup?"</string>
     <string name="mms_title">Multimedia Messaging</string>
     <string name="wifi_title">Wi-Fi Settings</string>
     <string name="note_title">Notes</string>
-    <string name="compute_backup_info">Searching for Cloud backups...</string>
+    <string name="compute_backup_info">Retrieving backup info...</string>
     <string name="compute_delete_contact_info">Searching for contacts...</string>
     <string name="unknown_hint">N/A</string>
     <string name="task_progress">Progress</string>
@@ -89,7 +89,7 @@ Are you sure you wish to delete the selected backup?"</string>
     <string name="data_no_enough_space">Not enough free internal storage space, free some space and try again</string>
     <string name="data_no_enough_space_warning">Internal storage has less than 30MB free, restore may fail, are you sure you want to proceed?</string>
     <string name="task_running_hint">Service is running in the background, please try again to restore this backup!</string>
-    <string name="task_running_dialog">Background backup and restore is in progress, press OK to view it</string>
+    <string name="task_running_dialog">Background backup and recovery is in progress, press OK to view it</string>
     <string name="task_service_not_launched">Service is not started, please wait!</string>
     <string name="task_local_backup_cancel_dialog">"Backup not yet completed
 Click OK to cancel this task"</string>
@@ -100,15 +100,15 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="task_backup_cancel_progress">Cancelling backup...</string>
     <string name="task_restore_cancel_progress">Cancelling...</string>
     <string name="nothing_searched">No search results found</string>
-    <string name="restore_counts">Restore:</string>
+    <string name="restore_counts">Recovery:</string>
     <string name="service_stoped">Service stopped</string>
     <string name="sc_network_unavailable">Network connection error</string>
     <string name="sc_bad_request">Bad request</string>
     <string name="sc_unaccess_password_file">"Don't store Wi-Fi password details"</string>
-    <string name="sc_service_unavailable">Could service unavailable</string>
+    <string name="sc_service_unavailable">Cloud service unavailable</string>
     <string name="sc_unauthorized">Certification is not valid</string>
     <string name="sc_request_timeout">Request timed out</string>
-    <string name="sc_precondition_failed">Your Xiaomi account has not been bound with any email address</string>
+    <string name="sc_precondition_failed">Your Xiaomi account has not been associated with an E-mail address</string>
     <string name="sc_internal_server_error">Internal server error</string>
     <string name="sc_others">Program exception</string>
     <string name="succeed">succeeded</string>
@@ -116,12 +116,12 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="button_return">Back</string>
     <string name="button_next">Next</string>
     <string name="button_finish">Finish</string>
-    <string name="progress_backup_hint">Backing up...</string>
+    <string name="progress_backup_hint">"Backing up: "</string>
     <string name="cancel_backup">Cancel Backup</string>
     <string name="restore_contact">Restore contacts</string>
     <string name="restore_contact_content">"Restoring contacts may result in duplicates, are you sure you want to do this?.
  Note: You can merge duplicate contacts in contact list settings"</string>
-    <string name="progress_restore_hint">Recovering...</string>
+    <string name="progress_restore_hint">"Restoring: "</string>
     <string name="cancel_restore">Cancel Restore</string>
     <string name="local_select_sysdata">System</string>
     <string name="local_select_userapp">Applications</string>
@@ -144,7 +144,7 @@ cancelling restore may cause data corruption to occur"</string>
     <string name="cloud_search">Searching Cloud...</string>
     <string name="cloud_no_backup">No cloud backup(s)</string>
     <string name="current_account">Logged in as: %s</string>
-    <string name="current_sim">SIM card</string>
+    <string name="current_sim">Current SIM card</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="dir_date_format">yyyy-MM-dd_HH.mm.ss</string>
     <string name="no_network">"Network error
@@ -163,7 +163,7 @@ Please check network connection and try again"</string>
 \u0009http://www.miliao.com
 
 3.\u0009Enter MiTalk settings and choose ”Back up contacts to Xiaomi account”"</string>
-    <string name="import_from_xiaomi_account_hint2">Note: Go to next step if backup has already existed</string>
+    <string name="import_from_xiaomi_account_hint2">Note: Proceed to next step if backup already exists</string>
     <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up contacts on other devices, not MI-ONE</string>
     <string name="guarded_mode_dialog_title">Privacy mode</string>
     <string name="guarded_mode_dialog_message">Cannot backup/restore in privacy mode</string>

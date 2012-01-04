@@ -90,9 +90,9 @@ MIUI 온라인 서비스와 MiTalk를 사용해보세요."</string>
     <string name="user_unbind">연동하지 않음</string>
     <string name="sending_bind_request">요청 전송 중</string>
     <string name="bind_phone_dialog_title">휴대전화 연동</string>
-    <string name="bind_phone_dialog_message">You will receive an SMS confirmation with a verification code to validate your account</string>
+    <string name="bind_phone_dialog_message">인증코드가 담긴 메시지를 받으면 링크를 클릭해서 인증하세요.</string>
     <string name="bind_email_dialog_title">이메일 연동</string>
-    <string name="bind_email_dialog_message">You will receive an E-mail confirmation with a verification code to validate your account</string>
+    <string name="bind_email_dialog_message">인증메일을 받으면 링크를 눌러서 인증하세요.</string>
     <string name="bind_dialog_button">확인</string>
     <string name="enable_mitalk_dialog_title">동기화 사용</string>
     <string name="enable_mitalk_dialog_message">사스템 계정으로 MiTalk에 로그인합니다. 시스템 계정과 현재 로그인된 MiTalk계정이 다를 경우 데이터가 모두 삭제됩니다. 동기화하겠습니까?</string>

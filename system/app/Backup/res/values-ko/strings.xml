@@ -42,7 +42,7 @@
     <string name="settings_summary">"
 (전화와 메시지 관련 설정을 백업합니다.)"</string>
     <string name="account_summary">"
-(Gmail, 이메일, Xiaomi 계정을 백업합니다.")</string>
+(Gmail, 이메일, Xiaomi 계정을 백업합니다.)"</string>
     <string name="cloud_app_name">클라우드 백업</string>
     <string name="cloud_home_title">클라우드</string>
     <string name="prompt_reading">읽는 중...</string>

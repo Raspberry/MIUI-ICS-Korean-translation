@@ -3,7 +3,7 @@
     <string-array name="pref_content_plugins_choices">
         <item>항상 사용</item>
         <item>요청 시</item>
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>현재 페이지</item>
@@ -36,7 +36,7 @@
         <item>한국어(EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>안 함</item>
+        <item>안함</item>
         <item>Wi-Fi 연결 시</item>
         <item>항상</item>
     </string-array>

@@ -128,7 +128,7 @@
     <string name="usb_mode_dont_ask">다시 묻지 않음</string>
     <string name="usb_mode_mount_storage_title">USB 저장소를 사용하겠습니까?</string>
     <string name="mount_storage">사용</string>
-    <string name="dismount_storage">사용 안 함</string>
+    <string name="dismount_storage">사용 안함</string>
     <string name="move_data_to_sdcard_title">SD 카드로 데이터 이동</string>
     <string name="move_data_to_sdcard_message">쾌적하고 안정적으로 사용하기 위해서 스크린샷, 사진 등의 데이터를 내부 저장소에서 SD 카드로 이동합니다.</string>
     <string name="user_guide_for_notification">새 알림이 있습니다. 상태표시줄을 아래로 내려서 세부정보를 확인할 수 있습니다.</string>

@@ -86,7 +86,7 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY 사용 안 함</item>
+        <item>TTY 사용 안함</item>
         <item>TTY 전체</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>

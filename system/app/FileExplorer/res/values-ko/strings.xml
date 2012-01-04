@@ -49,7 +49,7 @@
     <string name="operation_create_folder">새 폴더</string>
     <string name="operation_create_folder_message">폴더 이름을 입력하세요</string>
     <string name="operation_delete">삭제</string>
-    <string name="operation_delete_confirm_message">삭제 하겠습니까?</string>
+    <string name="operation_delete_confirm_message">삭제하겠습니까?</string>
     <string name="operation_deleting">삭제 중...</string>
     <string name="operation_favorite">즐겨찾기에 추가</string>
     <string name="operation_hide_sys">숨김파일 표시해제</string>

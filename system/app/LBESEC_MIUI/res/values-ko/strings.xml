@@ -16,11 +16,11 @@
     <string name="Generic_Canceling">취소 중...</string>
     <string name="Generic_InvalidInput">입력 매개 변수가 틀립니다.</string>
     <string name="Generic_Service_Enabled">서비스 사용 중</string>
-    <string name="Generic_Service_Disabled">서비스 사용 안 함</string>
+    <string name="Generic_Service_Disabled">서비스 사용 안함</string>
     <string name="Generic_Summary_Enabled">사용</string>
-    <string name="Generic_Summary_Disabled">사용 안 함</string>
+    <string name="Generic_Summary_Disabled">사용 안함</string>
     <string name="Generic_Enable">사용</string>
-    <string name="Generic_Disable">사용 안 함</string>
+    <string name="Generic_Disable">사용 안함</string>
     <string name="Generic_Optimize">최적화</string>
     <string name="Generic_Check">점검</string>
     <string name="Generic_Clean">정리</string>
@@ -139,7 +139,7 @@
     <string name="Dashboard_HIPS_Disable_Content">권한 감시 기능을 비활성화하면 휴대전화 보안과 사생활 보호에 문제가 생길 수도 있습니다. 그래도 비활성화 하겠습니까?</string>
     <string name="Dashboard_Su_Enable_Title">ROOT 권한 허용</string>
     <string name="Dashboard_Su_Enable_Content">"앱이 ROOT 권한을 요청하는 것을 허용합니다.
-주의: 앱이 ROOT 권한을 얻으면 시스템 불안정성을 야기시키거나 개인 데이터 손실 또는 시스템, 하드웨어의 손상을 일으킬 수 있습니다. 주의하세요. 활성화하겠습니까?"</string>
+주의: 앱이 ROOT 권한을 얻으면 시스템 불안정성을 야기시키거나 개인 데이터 손실 또는 시스템, 하드웨어의 손상을 일으킬 수 있으니 주의하세요. 활성화하겠습니까?"</string>
     <string name="Dashboard_Log_Clear_Title">로그 초기화</string>
     <string name="Dashboard_Log_Clear_Content">로그를 모두 삭제합니다.</string>
     <string name="Privacy_Perm_Count">허용: %1$d번, 거부: %2$d번</string>

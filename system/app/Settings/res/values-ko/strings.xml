@@ -14,7 +14,7 @@
     <string name="ims_reg_required_on">IMS 등록을 사용해야 합니다.</string>
     <string name="ims_reg_required_off">IMS 등록을 사용 중지해야 합니다.</string>
     <string name="lte_ram_dump_on">lte ram 덤프 사용</string>
-    <string name="lte_ram_dump_off">lte ram 덤프 사용 안 함</string>
+    <string name="lte_ram_dump_off">lte ram 덤프 사용 안함</string>
     <string name="radioInfo_menu_viewADN">SIM 주소록 보기</string>
     <string name="radioInfo_menu_viewFDN">발신 허용 번호 보기</string>
     <string name="radioInfo_menu_viewSDN">SDN(Service Dialing Numbers) 보기</string>
@@ -24,7 +24,7 @@
     <string name="radioInfo_service_emergency">긴급 통화만</string>
     <string name="radioInfo_service_off">무선 연결 끊김</string>
     <string name="radioInfo_roaming_in">로밍</string>
-    <string name="radioInfo_roaming_not">로밍 안 함</string>
+    <string name="radioInfo_roaming_not">로밍 안함</string>
     <string name="radioInfo_phone_idle">자리 비움</string>
     <string name="radioInfo_phone_ringing">벨이 울림</string>
     <string name="radioInfo_phone_offhook">진행 중인 통화</string>
@@ -65,7 +65,7 @@
     <string name="battery_info_status_charging_ac">(AC)</string>
     <string name="battery_info_status_charging_usb">(USB)</string>
     <string name="battery_info_status_discharging">사용 중</string>
-    <string name="battery_info_status_not_charging">충전 안 함</string>
+    <string name="battery_info_status_not_charging">충전 안함</string>
     <string name="battery_info_status_full">충전 완료</string>
     <string name="battery_info_power_unplugged">전원연결되지 않음</string>
     <string name="battery_info_power_ac">AC</string>
@@ -299,7 +299,7 @@
     <string name="unlock_set_unlock_off_title">없음</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">슬라이드</string>
-    <string name="unlock_set_unlock_none_summary">보안 사용 안 함</string>
+    <string name="unlock_set_unlock_none_summary">보안 사용 안함</string>
     <string name="unlock_set_unlock_biometric_weak_title">얼굴인식 잠금해제</string>
     <string name="unlock_set_unlock_biometric_weak_summary">낮은 보안(베타)</string>
     <string name="unlock_set_unlock_pattern_title">패턴</string>
@@ -315,7 +315,7 @@
     <string name="unlock_set_unlock_mode_pattern">패턴으로 보안</string>
     <string name="unlock_set_unlock_mode_pin">PIN으로 보안</string>
     <string name="unlock_set_unlock_mode_password">비밀번호로 보안</string>
-    <string name="unlock_disable_lock_title">화면 잠금 사용 안 함</string>
+    <string name="unlock_disable_lock_title">화면 잠금 사용 안함</string>
     <string name="unlock_disable_lock_pattern_summary">잠금해제 패턴 삭제</string>
     <string name="unlock_disable_lock_pin_summary">잠금해제 PIN 삭제</string>
     <string name="unlock_disable_lock_password_summary">잠금해제 비밀번호 삭제</string>
@@ -340,9 +340,9 @@
     <string name="lockpattern_tutorial_cancel_label">취소</string>
     <string name="lockpattern_tutorial_continue_label">다음</string>
     <string name="lock_setup">설정 완료</string>
-    <string name="debug_log">Debug log</string>
-    <string name="upload_debug_log_title">Upload debug log</string>
-    <string name="upload_debug_log_summary">Upload debug log to help developing of a more stable and easy to use MIUI ROM. Thank you!</string>
+    <string name="debug_log">디버그 로그</string>
+    <string name="upload_debug_log_title">디버그 로그 전송 허용</string>
+    <string name="upload_debug_log_summary">Wi-Fi 상태에서만 디버그 로그 정보가 익명으로 전송됩니다. MIUI 개선에 큰 도움이 됩니다!</string>
     <string name="device_admin_title">기기 관리</string>
     <string name="manage_device_admin">기기 관리자</string>
     <string name="manage_device_admin_summary">기기 관리자 보기 또는 비활성화</string>
@@ -423,7 +423,7 @@
     <string name="nfc_quick_toggle_summary">휴대전화가 다른 기기와 접촉하면 데이터 교환이 시작됩니다.</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_on_summary">앱 콘텐츠를 NFC를 통해 전송할 준비가 되었습니다.</string>
-    <string name="android_beam_off_summary">사용 안 함</string>
+    <string name="android_beam_off_summary">사용 안함</string>
     <string name="android_beam_disabled_summary">NFC가 꺼져 있어 사용할 수 없음</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_explained">"이 기능을 사용하도록 설정하면 기기를 서로 가까이 두어 앱 콘텐츠를 다른 NFC 지원 기기로 전송할 수 있습니다. 예를 들어 브라우저 페이지, YouTube 동영상, 주소록 등을 전송할 수 있습니다.
@@ -451,7 +451,7 @@
     <string name="wifi_menu_scan">검색</string>
     <string name="wifi_menu_advanced">고급</string>
     <string name="wifi_menu_connect">네트워크 연결</string>
-    <string name="wifi_menu_forget">네트워크 저장 안 함</string>
+    <string name="wifi_menu_forget">네트워크 저장 안함</string>
     <string name="wifi_menu_modify">네트워크 수정</string>
     <string name="wifi_empty_list_wifi_off">사용 가능한 네트워크를 보려면 Wi-Fi를 켭니다.</string>
     <string name="wifi_show_advanced">고급 옵션 표시</string>
@@ -476,7 +476,7 @@
     <string name="wifi_password">비밀번호</string>
     <string name="wifi_show_password">비밀번호 표시</string>
     <string name="wifi_ip_settings">IP 설정</string>
-    <string name="wifi_unchanged">(변경 안 함)</string>
+    <string name="wifi_unchanged">(변경 안함)</string>
     <string name="wifi_unspecified">(지정되지 않음)</string>
     <string name="wifi_remembered">저장됨</string>
     <string name="wifi_disabled_generic">사용 중지됨</string>
@@ -491,7 +491,7 @@
     <string name="wifi_secured_second_item">%1$s(으)로 보안</string>
     <string name="wifi_security_none">없음</string>
     <string name="wifi_connect">연결</string>
-    <string name="wifi_forget">저장 안 함</string>
+    <string name="wifi_forget">저장 안함</string>
     <string name="wifi_save">저장</string>
     <string name="wifi_cancel">취소</string>
     <string name="wifi_wps_overlap_error">다른 Wi-Fi Protected 세션이 감지되었습니다. 몇 분 후에 다시 시도해 주세요.</string>
@@ -569,7 +569,7 @@
     <string name="dock_not_found_text">휴대전화를 도킹해야 오디오 도크를 설정할 수 있습니다.</string>
     <string name="dock_sounds_enable_title">도크 삽입음</string>
     <string name="dock_sounds_enable_summary_on">도크에 휴대전화를 끼우거나 제거할 때 소리 재생</string>
-    <string name="dock_sounds_enable_summary_off">도크에 휴대전화를 끼우거나 제거할 때 소리 재생 안 함</string>
+    <string name="dock_sounds_enable_summary_off">도크에 휴대전화를 끼우거나 제거할 때 소리 재생 안함</string>
     <string name="sync_settings">계정 및 동기화</string>
     <string name="search_settings">검색</string>
     <string name="search_settings_summary">검색 설정 및 기록 관리</string>
@@ -585,11 +585,11 @@
     <string name="wallpaper_settings_fragment_title">배경화면 선택</string>
     <string name="screensaver_settings_title">스크린 캔디</string>
     <string name="screensaver_settings_summary_on">전원에 연결된 경우 절전 모드 시 시작</string>
-    <string name="screensaver_settings_summary_off">사용 안 함</string>
+    <string name="screensaver_settings_summary_off">사용 안함</string>
     <string name="screensaver_component_title">선택한 캔디</string>
     <string name="screensaver_timeout_title">활성화 시기</string>
     <string name="screensaver_timeout_summary">%1$s 이상 유휴 상태일 때</string>
-    <string name="screensaver_timeout_zero_summary">안 함</string>
+    <string name="screensaver_timeout_zero_summary">안함</string>
     <string name="screensaver_test">사용해 보기</string>
     <string name="screensaver_activate_on_dock_title">도킹할 때도 시작</string>
     <string name="automatic_brightness">자동 밝기</string>
@@ -886,7 +886,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="data_size_label">데이터</string>
     <string name="external_data_size_label">USB 저장소 데이터</string>
     <string name="uninstall_text">제거</string>
-    <string name="disable_text">사용 안 함</string>
+    <string name="disable_text">사용 안함</string>
     <string name="enable_text">사용</string>
     <string name="clear_user_data_text">데이터 지우기</string>
     <string name="app_factory_reset">업데이트 제거</string>
@@ -908,7 +908,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="filter_apps_third_party">다운로드</string>
     <string name="filter_apps_running">실행 중</string>
     <string name="filter_apps_onsdcard">USB 저장소</string>
-    <string name="disabled">사용 안 함</string>
+    <string name="disabled">사용 안함</string>
     <string name="no_applications">앱 없음</string>
     <string name="internal_storage">내부 저장소</string>
     <string name="sd_card_storage">USB 저장소</string>
@@ -1077,11 +1077,11 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="accessibility_menu_item_settings">설정</string>
     <string name="accessibility_menu_item_tutorial">안내서</string>
     <string name="accessibility_service_state_on">설정</string>
-    <string name="accessibility_service_state_off">사용 안 함</string>
+    <string name="accessibility_service_state_off">사용 안함</string>
     <string name="accessibility_script_injection_allowed">허용됨</string>
     <string name="accessibility_script_injection_disallowed">허용되지 않음</string>
     <string name="accessibility_script_injection_button_allow">허용</string>
-    <string name="accessibility_script_injection_button_disallow">허용 안 함</string>
+    <string name="accessibility_script_injection_button_disallow">허용 안함</string>
     <string name="accessibility_service_security_warning_title">%1$s을(를) 사용하시겠습니까?</string>
     <string name="accessibility_service_security_warning_summary">%1$s은(는) 비밀번호를 제외하고 사용자가 입력한 모든 텍스트를 수집할 수 있습니다. 여기에는 신용카드 번호와 같은 개인정보도 포함됩니다. 또한 휴대전화 사용과 관련한 데이터도 수집할 수 있습니다.</string>
     <string name="accessibility_service_disable_warning_title">%1$s을(를) 중지하시겠습니까?</string>
@@ -1196,7 +1196,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="tts_engines_section">엔진</string>
     <string name="tts_engine_name_settings">%s 설정</string>
     <string name="tts_engine_name_is_enabled_summary">%s 사용</string>
-    <string name="tts_engine_name_is_disabled_summary">%s 사용 안 함</string>
+    <string name="tts_engine_name_is_disabled_summary">%s 사용 안함</string>
     <string name="tts_engine_settings_section">엔진 설정</string>
     <string name="tts_engine_settings_title">%s에 대한 설정</string>
     <string name="pico_languages_and_voices">언어 및 음성</string>
@@ -1307,7 +1307,7 @@ PIN이 잘못된 것 같습니다."</string>
     <string name="background_data_dialog_message">백그라운드 데이터를 사용하지 않도록 설정하면 배터리 수명이 늘어나고 데이터 사용량이 줄어듭니다. 일부 앱에서는 백그라운드 데이터 연결을 계속 사용할 수도 있습니다.</string>
     <string name="sync_automatically">앱 데이터 자동 동기화</string>
     <string name="sync_enabled">동기화 사용 중</string>
-    <string name="sync_disabled">동기화 사용 안 함</string>
+    <string name="sync_disabled">동기화 사용 안함</string>
     <string name="sync_error">동기화 오류</string>
     <string name="settings_backup">설정 백업</string>
     <string name="settings_backup_summary">내 설정 백업</string>
@@ -1363,7 +1363,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="window_animation_scale_title">창 애니메이션 배율</string>
     <string name="transition_animation_scale_title">전환 애니메이션 배율</string>
     <string name="debug_applications_category">앱</string>
-    <string name="immediately_destroy_activities">액티비티 유지 안 함</string>
+    <string name="immediately_destroy_activities">액티비티 유지 안함</string>
     <string name="immediately_destroy_activities_summary">사용자가 종료하는 즉시 바로 제거</string>
     <string name="app_process_limit_title">백그라운드 프로세스 수 제한</string>
     <string name="show_all_anrs">모든 ANR 보기</string>

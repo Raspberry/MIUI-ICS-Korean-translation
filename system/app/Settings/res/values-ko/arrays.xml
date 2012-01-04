@@ -19,7 +19,7 @@
         <item>30분</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
         <item>15초</item>
         <item>30초</item>
         <item>1분</item>
@@ -120,12 +120,12 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>항상</item>
         <item>연결되어 있는 경우에만</item>
-        <item>안 함(데이터 사용 증가)</item>
+        <item>안함(데이터 사용 증가)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>항상</item>
         <item>연결되어 있는 경우에만</item>
-        <item>안 함</item>
+        <item>안함</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>자동</item>
@@ -150,7 +150,7 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_network_setup">
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
         <item>누름 버튼</item>
         <item>액세스 포인트의 PIN</item>
         <item>이 기기의 PIN</item>
@@ -164,7 +164,7 @@
         <item>수동</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
         <item>알리미</item>
         <item>진동</item>
     </string-array>
@@ -194,7 +194,7 @@
         <item>시스템에서 결정</item>
     </string-array>
     <string-array name="silent_mode_entries">
-        <item>사용 안 함</item>
+        <item>사용 안함</item>
         <item>진동</item>
         <item>음소거</item>
     </string-array>
@@ -204,17 +204,17 @@
         <item>길게</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>확인 안 함</item>
+        <item>확인 안함</item>
         <item>DRM 콘텐츠만 확인</item>
         <item>항상 확인</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP 확인 사용 안 함</item>
+        <item>HDCP 확인 사용 안함</item>
         <item>DRM 콘텐츠에 대해서만 HDCP 확인 사용</item>
         <item>항상 HDCP 확인 사용</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>애니메이션 사용 안 함</item>
+        <item>애니메이션 사용 안함</item>
         <item>애니메이션 배율 .5x</item>
         <item>애니메이션 배율 1x</item>
         <item>애니메이션 배율 1.5x</item>
@@ -223,7 +223,7 @@
         <item>애니메이션 배율 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>애니메이션 사용 안 함</item>
+        <item>애니메이션 사용 안함</item>
         <item>애니메이션 배율 .5x</item>
         <item>애니메이션 배율 1x</item>
         <item>애니메이션 배율 1.5x</item>
