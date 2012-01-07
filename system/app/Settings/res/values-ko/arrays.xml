@@ -255,4 +255,9 @@
         <item>시간초과됨</item>
         <item>실패</item>
     </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>약하게</item>
+        <item>중간</item>
+        <item>세게</item>
+    </string-array>
 </resources>

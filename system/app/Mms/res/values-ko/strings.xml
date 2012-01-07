@@ -300,7 +300,6 @@
     <string name="refresh">새로고침</string>
     <string name="refresh_failed">새로고침 실패!</string>
     <string name="database_corruption">DB 오류. DB 재생성 중...</string>
-    <string name="message_title">%1$s %2$s</string>
     <string name="send_to">To: %1$s</string>
     <string name="send_to_count">%1$s 메시지 보냄</string>
     <string name="send_to_index_contact">%1$s of %2$s 보내는 중...</string>

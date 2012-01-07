@@ -1492,4 +1492,5 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="sms_received_sound_dialog_title">메시지 수신 알림소리 선택</string>
     <string name="sms_delivered_sound_dialog_title">메시지 전송 알림소리 선택</string>
     <string name="additional_system_update_settings_list_item_title">추가 시스템 업데이트</string>
+    <string name="haptic_feedback_level">진동 세기</string>
 </resources>

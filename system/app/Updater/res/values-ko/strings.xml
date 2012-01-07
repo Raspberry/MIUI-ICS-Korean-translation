@@ -86,7 +86,7 @@
 %2$s명이 %3$s 버전에 서명했습니다."</string>
     <string name="sign_in_info_total_more">"이번 업데이트를 %1$s번째로 확인했습니다.
 %2$s명 이상이 %3$s 버전에 서명했습니다."</string>
-    <string name="sign_in_info_rank_more">"이번 업데이트를 %1%s번째 이후로 확인했습니다.
+    <string name="sign_in_info_rank_more">"이번 업데이트를 %1$s번째 이후로 확인했습니다.
 %2$s명 이상이 %3$s 버전에 서명했습니다."</string>
     <string name="sign_in_add_account_helper">Xiaomi 계정에 로그인하세요.</string>
     <string name="move_data_to_sdcard_title">SD 카드로 데이터 이동</string>
