@@ -40,7 +40,9 @@
         <item>Wi-Fi 연결 시</item>
         <item>항상</item>
     </string-array>
-    <string-array name="bookmarks_ko">
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.co.kr/</item>
         <item>Daum</item>
         <item>http://m.daum.net/</item>
         <item>네이버</item>
@@ -51,5 +53,19 @@
         <item>http://m.tworld.co.kr/</item>
         <item>위키백과, 우리 모두의 백과사전</item>
         <item>http://ko.m.wikipedia.org/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/m/viewer?source=androidclient</item>
+        <item>Twitter</item>
+        <item>https://mobile.twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://m.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://m.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://hp.mobileweb.ebay.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://m.weather.com/</item>
     </string-array>
 </resources>

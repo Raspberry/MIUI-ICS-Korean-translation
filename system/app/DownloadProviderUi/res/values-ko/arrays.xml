@@ -5,4 +5,7 @@
         <item>다운로드됨</item>
         <item>다운로드 중</item>
     </string-array>
+    <string-array name="edit_operations">
+        <item>모두 선택</item>
+    </string-array>
 </resources>

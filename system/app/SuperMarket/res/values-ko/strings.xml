@@ -105,7 +105,6 @@
     <string name="server_resp_general_error">네트워크 오류. 다시 시도하세요</string>
     <string name="server_resp_unbound_userid">계정이 연결되지 않음. miui.com에 로그인해서 Xiaomi 계정과 연결한 후에 다시 시도하세요.</string>
     <string name="server_resp_token_expired">계정 만료됨. 다시 로그인하세요.</string>
-    <string name="server_error_hint_format">%s. 메뉴에서 재시도를 누르세요.</string>
     <string name="need_login_account">계정에 로그인해야 친구의 추천을 볼 수 있습니다.</string>
     <string name="need_login_account_to_operate">MIUI계정에 로그인해야 이 동작을 실행할 수 있습니다.</string>
     <string name="zero">0</string>
