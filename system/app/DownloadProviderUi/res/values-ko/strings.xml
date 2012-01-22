@@ -31,7 +31,6 @@
     <string name="deselect_all">모두 선택취소</string>
     <string name="select_all">모두 선택</string>
     <string name="selected_count">%2$d개 중 %1$d개가 선택됨</string>
-    <string name="selected_format">%1$d개 선택됨</string>
     <string name="download_share_dialog">공유에 사용할 애플리케이션</string>
     <string name="pause_download_when_wifi_disconnected">Wi-Fi 전용</string>
     <string name="download_when_network_connected">모바일 네트워크 연결시에도 다운로드</string>

@@ -552,7 +552,7 @@ Choose one of the following options:"</string>
     <string name="group_name_family">Family</string>
     <string name="group_name_coworkers">Colleagues</string>
     <string name="unkown_location">Location is Unknown</string>
-    <string name="service_provider">Service provider</string>
+    <string name="service_provider">Yellow page</string>
     <string name="menu_group_add_members">add members</string>
     <string name="nickname_picker_name_column">Contact Name</string>
     <string name="nickname_picker_nickname_column">Title</string>
@@ -581,4 +581,10 @@ Choose one of the following options:"</string>
     <string name="recent_contacts_label">Recent</string>
     <string name="pick_favorites_list_title">Total %1$d favorites contact numbers</string>
     <string name="pick_recent_list_title">Total %1$d recent contact numbers</string>
+    <string name="noRecentContacts">No recent contact</string>
+    <string name="hint_search_contacts">%d contacts</string>
+    <string name="preference_import">Import</string>
+    <string name="preference_export">Export</string>
+    <string name="preference_others">Others</string>
+    <string name="wipe_data">Clear data</string>
 </resources>

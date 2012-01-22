@@ -349,5 +349,16 @@
 
 설정->시스템->버튼 에서 설정값을 바꿀 수 있습니다."</string>
     <string name="force_exit_message">\"%1$s\" 종료됨</string>
+    <string name="global_action_toggle_privacy_mode">프라이버시</string>
+    <string name="global_action_privacy_mode_on_status">프라이버시 모드 켜짐</string>
+    <string name="global_action_privacy_mode_on_toast">프라이버시 모드가 작동 중입니다. 통화기록, 메시지 및 노트가 숨겨지며 바탕화면 구성을 편집할 수 없습니다.</string>
+    <string name="global_action_privacy_mode_dialog_message">"프라이버시 모드에서는 통화기록, 메시지 및 노트가 숨겨지며 바탕화면 구성을 편집할 수 없습니다. 기능 및 앱 보안 설정에서 프라이버시 모드 보안을 설정할 수 있습니다.
+
+프라이버시 모드를 작동하겠습니까?"</string>
+    <string name="global_action_privacy_mode_off_status">프라이버시 모드 꺼짐</string>
+    <string name="delete">삭제</string>
+    <string name="select_all">모두 선택</string>
+    <string name="reverse_all">모두 선택해제</string>
+    <string name="multi_select_title">%1$s 항목 선택됨</string>
     <string name="keyguard_incorrect_pin_with_retry_count">%d번 재시도할 수 있습니다.</string>
 </resources>

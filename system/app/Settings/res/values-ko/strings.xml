@@ -1493,4 +1493,16 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="sms_delivered_sound_dialog_title">메시지 전송 알림소리 선택</string>
     <string name="additional_system_update_settings_list_item_title">추가 시스템 업데이트</string>
     <string name="haptic_feedback_level">진동 세기</string>
+    <string name="access_control_title">기능 및 앱 보안</string>
+    <string name="ac_enable_title">기능 및 앱 보안 활성화</string>
+    <string name="ac_set_apps_title">앱을 숨기거나 잠그기</string>
+    <string name="ac_privacy_mode_title">프라이버시 모드 보안 설정</string>
+    <string name="access_control_password_title">기능 및 앱 보안 활성화</string>
+    <string name="access_control_need_to_unlock">패턴을 그려 잠금 해제하세요</string>
+    <string name="access_control_need_password">"%s 잠금 설정됨
+"</string>
+    <string name="access_control_no_back_footer">종료하려면 [icon]키를 누르세요</string>
+    <string name="access_control_recording_intro_header">패턴을 그려 잠금 설정하세요</string>
+    <string name="access_control_app_entry_single">앱 실행</string>
+    <string name="access_control_app_entry_multiple">%s 실행</string>
 </resources>
