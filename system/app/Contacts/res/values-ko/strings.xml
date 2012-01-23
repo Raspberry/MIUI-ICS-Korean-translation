@@ -114,7 +114,7 @@
     <string name="noContactsHelpText">"표시할 연락처가 없습니다.
 
 연락처를 추가하려면 "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치하고 다음을 터치합니다. 
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"계정: 휴대전화에 동기화할 수 있는 주소록이 있는 계정을 추가하거나 설정하려는 경우 터치합니다.
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"새 연락처: 연락처를 새로 만들려면 터치합니다.
@@ -136,7 +136,7 @@
     <string name="noContactsNoSimHelpText">"표시할 연락처가 없습니다.
 
 연락처를 추가하려면 "<b><font fgcolor="#ffffffff">메뉴</font></b>"를 터치하고 다음을 터치합니다. 
-
+ 
 "<b><font fgcolor="#ffffffff"><li>"계정: 휴대전화에 동기화할 수 있는 주소록이 있는 계정을 추가하거나 설정하려는 경우 터치합니다.
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"새 연락처: 연락처를 새로 만들려면 터치합니다.
@@ -155,14 +155,14 @@
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기: SD 카드에서 주소록을 가져오려면 터치합니다.
 "</li></font></b></string>
-    <string name="noFavoritesHelpText">"즐겨찾기가 없습니다. 
+    <string name="noFavoritesHelpText">"즐겨찾기가 없습니다. 
 
-즐겨찾기 목록에 연락처를 추가하려면 
+즐겨찾기 목록에 연락처를 추가하려면 
 
 "<b><li>"주소록 탭을 터치하고
-"</li></b>"
+"</li></b>" 
 "<li>"즐겨찾기에 추가할 연락처를 터치하고
-"</li>"
+"</li>" 
 "<li>"연락처 이름 옆의 별표를 터치합니다.
 "</li></string>
     <string name="liveFolder_all_label">모든 연락처</string>
@@ -232,7 +232,7 @@
     <string name="confirm_export_title">주소록을 내보내시겠습니까?</string>
     <string name="confirm_export_message">연락처 목록을 %s 파일로 내보냅니다.</string>
     <string name="exporting_contact_failed_title">내보내기 실패</string>
-    <string name="exporting_contact_failed_message">"주소록 데이터를 내보내지 못했습니다
+    <string name="exporting_contact_failed_message">"주소록 데이터를 내보내지 못했습니다.
 (이유: '%s')"</string>
     <string name="fail_reason_no_exportable_contact">내보낼 수 있는 연락처가 없습니다.</string>
     <string name="fail_reason_too_many_vcard">저장공간에 vCard 파일이 너무 많습니다.</string>
@@ -365,7 +365,6 @@
     <string name="add_connection_button">연결 추가</string>
     <string name="recent_updates">최근 업데이트</string>
     <string name="account_type_format">%1$s 연락처</string>
-    <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">사진 사용</string>
     <string name="contact_read_only">이 앱에서 수정할 수 없습니다.</string>
     <string name="no_contact_details">연락처에 대한 추가 정보가 없습니다.</string>
@@ -383,9 +382,9 @@
     <string name="pick_new_photo">갤러리에서 새 사진 선택</string>
     <string name="locale_change_in_progress">변경된 언어를 반영하도록 주소록을 업데이트하는 중입니다. 잠시 기다려 주세요.</string>
     <string name="upgrade_in_progress">주소록을 업데이트하고 있습니다.</string>
-    <string name="upgrade_out_of_memory">"주소록을 업그레이드하는 중입니다. 
+    <string name="upgrade_out_of_memory">"주소록을 업그레이드하는 중입니다. 
 
-업그레이드 하려면 약 %sMB의 내부 저장공간이 필요합니다.
+업그레이드 하려면 약 %sMB의 내부 저장공간이 필요합니다.
 
 다음 옵션 중 하나를 선택하세요."</string>
     <string name="upgrade_out_of_memory_uninstall">일부 애플리케이션 제거</string>
@@ -547,7 +546,7 @@
     <string name="group_name_family">가족</string>
     <string name="group_name_coworkers">동료</string>
     <string name="unkown_location">알 수 없는 장소</string>
-    <string name="service_provider">서비스 제공 업체</string>
+    <string name="service_provider">옐로우 페이지</string>
     <string name="menu_group_add_members">그룹에 추가</string>
     <string name="nickname_picker_name_column">이름</string>
     <string name="nickname_picker_nickname_column">별명</string>
@@ -576,4 +575,10 @@
     <string name="recent_contacts_label">최근 연락처</string>
     <string name="pick_favorites_list_title">총 %1$d개 즐겨찾기 연락처 번호</string>
     <string name="pick_recent_list_title">총 %1$d개 최근 연락처 번호</string>
+    <string name="noRecentContacts">최근 연락처 없음</string>
+    <string name="hint_search_contacts">%d 연락처 검색</string>
+    <string name="preference_import">가져오기</string>
+    <string name="preference_export">내보내기</string>
+    <string name="preference_others">기타</string>
+    <string name="wipe_data">연락처 초기화</string>
 </resources>
