@@ -97,4 +97,9 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="check_update_policy">Check update settings</string>
     <string name="check_update_when_wifi_available">Check for updates only using Wi-Fi</string>
     <string name="install_file_explorer">please install file explorer</string>
+    <string name="share_update">Share system update info</string>
+    <string name="share_update_content_unsign">I’ve updated MIUI to %s! For detailed changelog, please visit http://www.miui.com</string>
+    <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit http://www.miui.com</string>
+    <string name="share_sina">Post it via Sina weibo</string>
+    <string name="share_qq">Post it via Tencent weibo</string>
 </resources>

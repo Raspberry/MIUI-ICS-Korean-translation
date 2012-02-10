@@ -98,4 +98,9 @@
     <string name="check_update_policy">업데이트 확인 설정</string>
     <string name="check_update_when_wifi_available">Wi-Fi로 연결되었을 경우에만 업데이트 확인</string>
     <string name="install_file_explorer">파일탐색기를 설치하세요.</string>
+    <string name="share_update">시스템 업데이트 정보 공유</string>
+    <string name="share_update_content_unsign">MIUI %s로 업데이트 되었습니다! 체인지로그를 보려면 http://www.miui.com 을 방문하세요.</string>
+    <string name="share_update_content_sign">MIUI %1$s로 업데이트 되었습니다! 내 업데이트 서명 순위는 %2$s입니다. 체인지로그를 보려면 http://www.miui.com 을 방문하세요.</string>
+    <string name="share_sina">Sina weibo에 게재</string>
+    <string name="share_qq">Tencent weibo에 게재</string>
 </resources>

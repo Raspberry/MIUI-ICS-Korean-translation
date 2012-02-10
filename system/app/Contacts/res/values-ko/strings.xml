@@ -537,6 +537,9 @@
     <string name="openDialKeyboard">다이얼패드</string>
     <string name="t9_search_guide">전화번호나 주소록 T9 색인 데이터를 입력하세요.</string>
     <string name="date_time_set">설정</string>
+    <string name="sim_no_contact">SIM 카드 연락처가 없습니다.</string>
+    <string name="sim_indexed_contact_not_exist">%1$d가 SIM 카드에서 잘못된 위치에 있습니다. %2$d와 %3$d 사이에 넣으세요.</string>
+    <string name="sim_contact_search_error">SIM 카드 연락처 검색 중 오류가 발생했습니다.</string>
     <string name="empty_divider_title">다음 동작들을 할 수 있습니다.</string>
     <string name="noContactHelpTextAccountsInfo">Google, Exchange 주소록 동기화</string>
     <string name="sync_xiaomi_cloud_contacts">클라우드 백업된 주소록 복구</string>
@@ -557,7 +560,7 @@
     <string name="deselect_all">모두 선택해제</string>
     <string name="select_none">아무 것도 선택되지 않았습니다. 작업할 수 없습니다.</string>
     <string name="toast_finish_delete_call_log">통화기록이 삭제되었습니다.</string>
-    <string name="confirm_delete_selected_call_log">선택한 그룹의 %1d개 통화기록을 삭제하겠습니까?</string>
+    <string name="confirm_delete_selected_call_log">선택한 %1d개 통화기록을 삭제하겠습니까?</string>
     <string name="calllog_menu_blacklist">수신거부 목록에 추가</string>
     <string name="calllog_menu_edit_before_call">통화전에 편집</string>
     <string name="calllog_menu_send_sms">메시지 보내기</string>
@@ -565,7 +568,7 @@
     <string name="delete_contact_calllog_title">통화기록을 정말 삭제하겠습니까?</string>
     <string name="delete_unknown_contact_calllog_title">연락처에 없는 번호의 통화기록을 삭제하겠습니까?</string>
     <string name="account_default">휴대전화</string>
-    <string name="account_sim">SIM 카드 전용</string>
+    <string name="account_sim">SIM 카드에만 저장</string>
     <string name="edit_contact_card_title">보내기 전에 연락처 카드 편집</string>
     <string name="preview_contact_card_title">연락처 카드 가져오기</string>
     <string name="import_contact_card_button">가져오기</string>
@@ -581,4 +584,14 @@
     <string name="preference_export">내보내기</string>
     <string name="preference_others">기타</string>
     <string name="wipe_data">연락처 초기화</string>
+    <string name="check_unsynchronized_accounts">동기화되지 않은 연락처 점검 주기</string>
+    <string name="frequency_three_days">매 3일마다 점검하고 알림</string>
+    <string name="frequency_weekly">매주 점검하고 알림</string>
+    <string name="frequency_none">알림 없음</string>
+    <string name="dirty_contacts_notification_title">연락처를 동기화합니다</string>
+    <string name="dirty_contacts_notification_description">기기에 %d개의 동기화되지 않은 연락처가 있습니다.</string>
+    <string name="dirty_contacts_notification_message">(주소록 설정에서 알림을 끌 수 있습니다.)</string>
+    <string name="remind_btn_not_remind">다시 알리지 않음</string>
+    <string name="remind_btn_sync_now">지금 동기화</string>
+    <string name="remind_btn_ignore">무시</string>
 </resources>

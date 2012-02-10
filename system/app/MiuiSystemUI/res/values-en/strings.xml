@@ -28,11 +28,11 @@ Use only the supplied charger."</string>
     <string name="bluetooth_tethered">Bluetooth tethered</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configure input methods</string>
     <string name="status_bar_use_physical_keyboard">Use physical keyboard</string>
-    <string name="usb_device_permission_prompt">Allow the application %1$s to access the USB device?</string>
-    <string name="usb_accessory_permission_prompt">Allow the application %1$s to access the USB accessory?</string>
+    <string name="usb_device_permission_prompt">Allow the app %1$s to access the USB device?</string>
+    <string name="usb_accessory_permission_prompt">Allow the app %1$s to access the USB accessory?</string>
     <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
-    <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
     <string name="title_usb_accessory">USB accessory</string>
     <string name="label_view">View</string>
     <string name="always_use_device">Use by default for this USB device</string>
@@ -51,7 +51,7 @@ Use only the supplied charger."</string>
     <string name="usb_preference_title">USB file transfer options</string>
     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
-    <string name="installer_cd_button_title">Install Android File Transfer application for Mac</string>
+    <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
     <string name="accessibility_back">Back</string>
     <string name="accessibility_home">Home</string>
     <string name="accessibility_menu">Menu</string>
@@ -173,7 +173,6 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="settings_other">Other</string>
     <string name="battery_indicator_style">Battery indicator style</string>
     <string name="default_usb_mode">Default USB connection type</string>
-    <string name="enable_back_long_press">Long-press Back to kill App</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Incoming call</string>
     <string name="notification_vibrate_hint">Notification</string>
@@ -181,4 +180,16 @@ If you re-enable data, you may be charged by the operator."</string>
     <string name="not_all_vibrate_hint">According to your settings, %1$s Vibrates, %2$s does not vibrate, you can change it through Settings > Sound > Vibrate</string>
     <string name="no_vibrate_hint">Accoring to your settings, incoming call notifcation and sms will not vibrate, enabling vibration has no effect</string>
     <string name="to_vibrate_settings">Vibration Settings</string>
+    <string name="camera_key_action_title">MI button</string>
+    <string name="camera_key_action_setting_title">MI Button</string>
+    <string name="camera_key_action_category_title">Use if camera application is not open</string>
+    <string name="camera_key_action_none_title">No action</string>
+    <string name="camera_key_action_shortcut_title">Shortcut</string>
+    <string name="camera_key_action_toggle_title">Trigger toggle</string>
+    <string name="camera_key_action_app_title">Open application</string>
+    <string name="camera_key_action_shortcut_home">Back to homescreen</string>
+    <string name="camera_key_action_shortcut_screenshot">Capture screenshot</string>
+    <string name="camera_key_action_shortcut_search">Search</string>
+    <string name="camera_key_action_shortcut_call">Call</string>
+    <string name="camera_key_action_shortcut_wake">Lock/Wake device</string>
 </resources>

@@ -87,6 +87,7 @@ Xiaomi 온라인 서비스를 사용해보세요."</string>
     <string name="task_failed_all_local">작업 실패</string>
     <string name="task_backup_finished_local">백업 완료</string>
     <string name="task_restore_finished_local">복구 완료</string>
+    <string name="task_restore_none">복구할 필요 없음</string>
     <string name="task_stopped_exception">작업이 예기치 않게 종료됨</string>
     <string name="sdcard_no_enough_space">SD 카드 용량이 부족합니다.</string>
     <string name="sdcard_no_enough_space_warning">SD 카드 용량이 부족합니다. 백업을 완료하지 못할 수도 있습니다. 계속 하겠습니까?</string>

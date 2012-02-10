@@ -83,6 +83,7 @@ Are you sure you wish to delete the selected backup?"</string>
     <string name="task_failed_all_local">Task failed</string>
     <string name="task_backup_finished_local">Backup completed</string>
     <string name="task_restore_finished_local">Restore completed</string>
+    <string name="task_restore_none">No need restore</string>
     <string name="task_stopped_exception">Task aborted</string>
     <string name="sdcard_no_enough_space">Not enough free space on SD card</string>
     <string name="sdcard_no_enough_space_warning">SD card space low, backup may fail, are you sure you want to continue?</string>

@@ -342,6 +342,7 @@
     <string name="country_name_kg">키르기스스탄</string>
     <string name="country_name_uz">우즈베키스탄</string>
     <string name="firewall_setting">수신거부 설정</string>
+    <string name="keyguard_incorrect_pin_with_retry_count">%d번 재시도할 수 있습니다.</string>
     <string name="caller_info_name_delimiter">-</string>
     <string name="phoneTypeMms">MMS</string>
     <string name="first_back_long_press_title">뒤로가기 키 오래 누름 동작</string>
@@ -360,5 +361,25 @@
     <string name="select_all">모두 선택</string>
     <string name="reverse_all">모두 선택해제</string>
     <string name="multi_select_title">%1$s 항목 선택됨</string>
-    <string name="keyguard_incorrect_pin_with_retry_count">%d번 재시도할 수 있습니다.</string>
+    <string name="lockscreen_emergency_call">비상 전화</string>
+    <string name="ringtone_default_with_actual">기본 벨소리</string>
+    <string name="lockscreen_plugged_in">충전 중(%d%%)</string>
+    <string name="lockscreen_charged">충전되었습니다.</string>
+    <string name="lockscreen_low_battery">충전기를 연결하세요.</string>
+    <string name="lockscreen_missing_sim_message_short">SIM 카드가 없습니다.</string>
+    <string name="lockscreen_missing_sim_instructions">SIM 카드를 삽입하세요.</string>
+    <string name="lockscreen_network_locked_message">네트워크 잠김</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM 카드가 PUK 잠김 상태입니다.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">사용자 가이드를 참조하거나 고객지원팀에 문의하세요.</string>
+    <string name="lockscreen_sim_locked_message">SIM 카드가 잠겨 있습니다.</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">잠금해제하려면 메뉴를 누르세요.</string>
+    <string name="global_actions_toggle_airplane_mode">비행기 모드</string>
+    <string name="global_actions_airplane_mode_on_status">비행기 모드 사용</string>
+    <string name="global_actions_airplane_mode_off_status">비행기 모드 사용 안함</string>
+    <string name="global_action_power_off">종료</string>
+    <string name="factorytest_reboot">다시 시작</string>
+    <string name="silent_mode_silent">무음</string>
+    <string name="silent_mode_vibrate">진동</string>
+    <string name="silent_mode_ring">벨소리</string>
+    <string name="power_off">종료</string>
 </resources>

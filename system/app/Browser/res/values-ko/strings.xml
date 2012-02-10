@@ -347,5 +347,6 @@
     <string name="contextmenu_download_image_as">이미지를 다른 이름으로 저장</string>
     <string name="pref_ua_title">User Agent 관리</string>
     <string name="pref_ua_string">User Agent</string>
+    <string name="pref_reading_mode_enabled_title">읽기 모드</string>
     <string name="help_page">도움말</string>
 </resources>

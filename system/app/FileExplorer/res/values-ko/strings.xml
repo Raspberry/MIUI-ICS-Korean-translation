@@ -45,6 +45,7 @@
     <string name="operation_cancel">취소</string>
     <string name="operation_cancel_selectall">모두 선택해제</string>
     <string name="operation_copy">복사</string>
+    <string name="operation_copy_path">파일 경로 복사</string>
     <string name="operation_create_folder">새 폴더</string>
     <string name="operation_create_folder_message">폴더 이름을 입력하세요</string>
     <string name="operation_delete">삭제</string>
@@ -65,12 +66,15 @@
     <string name="operation_show_sys">숨김파일 표시</string>
     <string name="operation_unfavorite">즐겨찾기에서 제거</string>
     <string name="removed_favorite">즐겨찾기에서 제거</string>
+    <string name="sd_card_available">"사용가능: "</string>
+    <string name="sd_card_name">"SD 카드: "</string>
     <string name="sd_folder">SD 카드</string>
     <string name="search_hint">파일 검색</string>
     <string name="search_title">검색</string>
     <string name="start_server">서버 시작</string>
     <string name="stop_server">서버 중지</string>
     <string name="storage_warning">SD 카드를 사용할 수 없습니다.</string>
+    <string name="tab_category">탐색</string>
     <string name="tab_remote">FTP</string>
     <string name="tab_sd">SD 카드</string>
     <string name="wifi_state">Wi-Fi 상태</string>

@@ -174,7 +174,6 @@
     <string name="settings_other">기타</string>
     <string name="battery_indicator_style">배터리량 표시 형식</string>
     <string name="default_usb_mode">USB 연결형식 기본값</string>
-    <string name="enable_back_long_press">뒤로가기 키 오래 눌러서 실행 중인 앱 종료하기</string>
     <string name="settings_separator">", "</string>
     <string name="incoming_call_vibrate_hint">전화</string>
     <string name="notification_vibrate_hint">알림</string>
@@ -182,4 +181,16 @@
     <string name="not_all_vibrate_hint">%1$s는 진동하도록, %2$s는 진동하지 않도록 설정되어 있습니다. \"설정 > 소리 > 진동\"에서 설정을 변경할 수 있습니다.</string>
     <string name="no_vibrate_hint">전화, 알림 및 메시지 모두 진동하지 않도록 설정되어 있습니다. 매너모드로 설정해도 해당 기능의 진동이 울리지 않습니다.</string>
     <string name="to_vibrate_settings">진동 설정</string>
+    <string name="camera_key_action_title">MI 버튼</string>
+    <string name="camera_key_action_setting_title">MI 버튼 누르기</string>
+    <string name="camera_key_action_category_title">카메라 앱 실행 중이 아닐 때 동작 실행</string>
+    <string name="camera_key_action_none_title">아무 것도 안함</string>
+    <string name="camera_key_action_shortcut_title">바로가기</string>
+    <string name="camera_key_action_toggle_title">스위치</string>
+    <string name="camera_key_action_app_title">앱 실행</string>
+    <string name="camera_key_action_shortcut_home">홈으로</string>
+    <string name="camera_key_action_shortcut_screenshot">스크린샷</string>
+    <string name="camera_key_action_shortcut_search">검색</string>
+    <string name="camera_key_action_shortcut_call">통화</string>
+    <string name="camera_key_action_shortcut_wake">잠금/화면켜기</string>
 </resources>
