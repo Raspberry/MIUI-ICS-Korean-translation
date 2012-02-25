@@ -97,6 +97,7 @@
     <string name="install_whole_rom">full ROM 다운로드를 권장합니다.</string>
     <string name="check_update_policy">업데이트 확인 설정</string>
     <string name="check_update_when_wifi_available">Wi-Fi로 연결되었을 경우에만 업데이트 확인</string>
+    <string name="update_stable_version_only">Stable 버전만 업데이트</string>
     <string name="install_file_explorer">파일탐색기를 설치하세요.</string>
     <string name="share_update">시스템 업데이트 정보 공유</string>
     <string name="share_update_content_unsign">MIUI %s로 업데이트 되었습니다! 체인지로그를 보려면 http://www.miui.com 을 방문하세요.</string>

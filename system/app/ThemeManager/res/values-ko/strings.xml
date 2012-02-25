@@ -33,6 +33,8 @@
     <string name="theme_component_title_statusbar">상태표시줄</string>
     <string name="theme_component_title_launcher">런처 테마</string>
     <string name="theme_component_title_audio_effect">음향</string>
+    <string name="theme_component_title_clock">시계</string>
+    <string name="theme_component_title_photo_frame">사진 액자</string>
     <string name="theme_component_title_others">기타</string>
     <string name="theme_component_title_all">테마팩</string>
     <string name="apply_theme_no_select_message">테마를 선택하세요!</string>

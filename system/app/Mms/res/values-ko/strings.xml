@@ -412,4 +412,10 @@
     <string name="error_timed_msg">과거시간으로는 예약할 수 없습니다.</string>
     <string name="menu_timed_message">예약된 메시지</string>
     <string name="to_send_wrapper">%s에 보냅니다.</string>
+    <string name="group_message">그룹 메시지</string>
+    <string name="close">닫기</string>
+    <string name="timed_message_expired_title">예약메시지 %d개가 발송되지 않음</string>
+    <string name="timed_message_expired_title_2">지금 다시 보내겠습니까?</string>
+    <string name="timed_message_to">받는사람</string>
+    <string name="timed_message_in_total">총 %d명</string>
 </resources>

@@ -1,21 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="Nsongs">
+    <plurals name="Ntracks_format">
         <item quantity="other">노래 %d곡</item>
+        <item quantity="one">노래 %d곡</item>
     </plurals>
-    <plurals name="Nsongscomp">
-        <item quantity="other">노래 %1$d곡 중 %2$d곡</item>
+    <plurals name="Nalbums_format">
+        <item quantity="other">앨범 %d개</item>
+        <item quantity="one">앨범 %d개</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">노래</item>
+        <item quantity="one">노래</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">앨범 %d개</item>
-        <item quantity="one">앨범 1개</item>
+        <item quantity="other">앨범</item>
+        <item quantity="one">앨범</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">아티스트</item>
+        <item quantity="one">아티스트</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">재생목록</item>
+        <item quantity="one">재생목록</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" 폴더"</item>
+        <item quantity="one">" 폴더"</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">노래 %d곡이 선택되었습니다.</item>
+        <item quantity="one">노래 %d곡이 선택되었습니다.</item>
+    </plurals>
+    <plurals name="Nalbums_batch_selection">
+        <item quantity="other">앨범 %d개가 선택되었습니다.</item>
+        <item quantity="one">앨범 %d개가 선택되었습니다.</item>
+    </plurals>
+    <plurals name="Nartists_batch_selection">
+        <item quantity="other">아티스트 %d팀이 선택되었습니다.</item>
+        <item quantity="one">아티스트 %d팀이 선택되었습니다.</item>
+    </plurals>
+    <plurals name="Nfolders_batch_selection">
+        <item quantity="other">폴더 %d개가 선택되었습니다.</item>
+        <item quantity="one">폴더 %d개가 선택되었습니다.</item>
+    </plurals>
+    <plurals name="Nplaylists_batch_selection">
+        <item quantity="other">재생목록 %d개가 선택되었습니다.</item>
+        <item quantity="one">재생목록 %d개가 선택되었습니다.</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">SD 카드에 노래 %d곡이 있습니다.</item>
+        <item quantity="one">SD 카드에 노래 %d곡이 있습니다.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">노래 %d곡이 재생목록에 추가되었습니다.</item>
+        <item quantity="one">재생목록에 노래 1곡이 추가되었습니다.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">노래 %d곡이 즐겨찾기에 추가되었습니다.</item>
+        <item quantity="one">즐겨찾기에 노래 1곡이 추가되었습니다.</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, 노래 %2$d곡</item>
+        <item quantity="one">%1$s, 노래 %2$d곡</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">노래 %d곡이 삭제되었습니다.</item>
         <item quantity="one">노래 1곡이 삭제되었습니다.</item>
     </plurals>
-    <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">노래 %d곡이 재생목록에 추가되었습니다.</item>
-        <item quantity="one">재생목록에 노래 1곡이 추가되었습니다.</item>
+    <plurals name="Nnowplaying">
+        <item quantity="other">노래가 재생중입니다.</item>
+        <item quantity="one">노래가 재생중입니다.</item>
     </plurals>
 </resources>

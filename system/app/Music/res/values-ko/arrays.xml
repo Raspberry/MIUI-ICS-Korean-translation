@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="equalizer_presents">
+        <item>일반</item>
+        <item>클래식</item>
+        <item>댄스</item>
+        <item>발라드</item>
+        <item>헤비메탈</item>
+        <item>힙합</item>
+        <item>재즈</item>
+        <item>팝</item>
+        <item>락</item>
+    </string-array>
     <string-array name="weeklist">
         <item>1주</item>
         <item>2주</item>

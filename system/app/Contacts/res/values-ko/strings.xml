@@ -594,4 +594,7 @@
     <string name="remind_btn_not_remind">다시 알리지 않음</string>
     <string name="remind_btn_sync_now">지금 동기화</string>
     <string name="remind_btn_ignore">무시</string>
+    <string name="display_only_phones">전화번호가 있는 연락처만 표시</string>
+    <string name="raw_contact_list_title">연락처에 다음 %1$d개 관련 연락처가 포함되어 있습니다. 연락처를 편집하려면 클릭하세요.</string>
+    <string name="raw_contact_account_label">계정:%1$s</string>
 </resources>

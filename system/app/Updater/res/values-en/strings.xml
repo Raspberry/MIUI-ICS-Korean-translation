@@ -96,6 +96,7 @@ Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="install_whole_rom">Download full ROM package is recommended</string>
     <string name="check_update_policy">Check update settings</string>
     <string name="check_update_when_wifi_available">Check for updates only using Wi-Fi</string>
+    <string name="update_stable_version_only">Update stable version only</string>
     <string name="install_file_explorer">please install file explorer</string>
     <string name="share_update">Share system update info</string>
     <string name="share_update_content_unsign">I’ve updated MIUI to %s! For detailed changelog, please visit http://www.miui.com</string>

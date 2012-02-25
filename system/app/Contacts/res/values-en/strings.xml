@@ -600,4 +600,7 @@ Choose one of the following options:"</string>
     <string name="remind_btn_not_remind">Do not remind me</string>
     <string name="remind_btn_sync_now">Sync Now</string>
     <string name="remind_btn_ignore">Ignore</string>
+    <string name="display_only_phones">Only show contacts with phone number</string>
+    <string name="raw_contact_list_title">This contact includes following %1$d raw contacts, click to choose contact to edit</string>
+    <string name="raw_contact_account_label">Account:%1$s</string>
 </resources>

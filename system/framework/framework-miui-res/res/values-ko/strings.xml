@@ -65,7 +65,7 @@
     <string name="private_num">비공개 번호</string>
     <string name="payphone">공중전화</string>
     <string name="callNoAnswerTimeFormat">벨 %s번 울림</string>
-    <string name="date_day">E</string>
+    <string name="date_day">일</string>
     <string name="lunar_calendar">음력</string>
     <string name="the_spring_festival">설</string>
     <string name="lantern_festival">정월대보름</string>
@@ -362,6 +362,8 @@
     <string name="reverse_all">모두 선택해제</string>
     <string name="multi_select_title">%1$s 항목 선택됨</string>
     <string name="lockscreen_emergency_call">비상 전화</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyteShort">MB</string>
     <string name="ringtone_default_with_actual">기본 벨소리</string>
     <string name="lockscreen_plugged_in">충전 중(%d%%)</string>
     <string name="lockscreen_charged">충전되었습니다.</string>
@@ -381,5 +383,10 @@
     <string name="silent_mode_silent">무음</string>
     <string name="silent_mode_vibrate">진동</string>
     <string name="silent_mode_ring">벨소리</string>
+    <string name="ellipsis">...</string>
     <string name="power_off">종료</string>
+    <string name="shutdown_confirm">휴대전화가 종료됩니다.</string>
+    <string name="twelve_hour_time_format">a h:mm</string>
+    <string name="twenty_four_hour_time_format">H:mm</string>
+    <string name="ringtone_silent">무음</string>
 </resources>
